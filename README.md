@@ -10,4 +10,5 @@ These repo & script are clones from [Lopeh](https://github.com/Lopeh/onepiece-pl
 
 ## Step 2: Install the script in the browser extension
 Go on your browser extension and import/copy the script:
-* ### For Mozilla Firefox: ![alt text](https://i.ibb.co/JRJzFSY/addon1.png)
+* ### For Mozilla Firefox (ViolentMonkey plugin):
+Once installed, click on logo of ViolentMonkey plugin at the top right corner of your browser ![alt text](https://i.ibb.co/JRJzFSY/addon1.png)
