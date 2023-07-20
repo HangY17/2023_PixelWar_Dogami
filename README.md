@@ -18,3 +18,5 @@ Go on your browser extension and import/copy the script:
 ![alt text](https://i.ibb.co/pQzyGMK/addon3.png)
 
 4. Click on this script to install it on your newly installed plugin/add-on: [userscript.user.js](https://github.com/HangY17/2023_PixelWar_Dogami/blob/main/userscript.user.js)
+
+5. You are ready to fight with us and draw our beautiful Dogami logo !
