@@ -11,10 +11,10 @@ These repo & script are clones from [Lopeh](https://github.com/Lopeh/onepiece-pl
 ## Step 2: Install the script in the browser extension
 Go on your browser extension and import/copy the script:
 * ### For Mozilla Firefox (ViolentMonkey plugin):
-1. Once installed, click on logo of ViolentMonkey plugin at the top right corner of your browser
+1. Once installed, click on logo of ViolentMonkey plugin at the top right corner of your browser  
 ![alt text](https://i.ibb.co/JRJzFSY/addon1.png)
    
-2. Click on the cross ("new") then "install from a URL"
+2. Click on the cross ("new") then "install from a URL"  
 ![alt text](https://i.ibb.co/pQzyGMK/addon3.png)
 
 4. Enter the URL of the script which is hosted right here in this repository: https://github.com/HangY17/2023_PixelWar_Dogami/blob/main/userscript.user.js
