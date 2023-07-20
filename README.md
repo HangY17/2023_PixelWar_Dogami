@@ -20,14 +20,17 @@ To better organize ourselves, we will use a browser add-on as well as a script t
 
 2. Import the PNG canvas  
 Go on Reddit [r/place](https://www.reddit.com/r/place/).  
-You should see on the top left corner a setting button:
-![alt text](https://i.ibb.co/jHNCMBK/addon7.png)
-Click on it and paste the following URL into the "Template URL" field at the bottom:
-![alt text](https://i.ibb.co/3C4G6Jc/addon8.png)
-Click on "Always load". You should then see pixels which look different than others:
-![alt text](https://i.ibb.co/hD2vSZ9/addon9.png)
+
+You should see on the top left corner a setting button:  
+![alt text](https://i.ibb.co/jHNCMBK/addon7.png)  
+
+Click on it and paste the following URL into the "Template URL" field at the bottom:  
+![alt text](https://i.ibb.co/3C4G6Jc/addon8.png)  
+
+Click on "Always load". You should then see pixels which look different than others:  
+![alt text](https://i.ibb.co/hD2vSZ9/addon9.png)  
  
-3. Color the pixels accordingly !
+4. Color the pixels accordingly !
 The interior color of the pixel represents the color to be set, while the exterior color of the pixel is the current color of the pixel. Select the corresponding color (interior of the pixel), select the pixel and validate. Here you go, you are helping us setting the DOGAMI logo on the 2023 r/place !
 
 
