@@ -1,8 +1,6 @@
 # 2023_PixelWar_Dogami
 Repo for DOGAMI template for the Reddit Pixel War (/r/place)
 
-These repo & script are clones from [Lopeh](https://github.com/Lopeh/onepiece-place) & [Anticept](https://github.com/anticept/httyd-place) 
-
 # What is the Pixel War ?
 The Pixel War started in 2017 on Reddit on the r/place channel. It is a blank space of a 1000x1000 pixels dimension. The objective is to draw/write something you like. To do that, users can color (or leave blank) pixels one by one, each 5 minutes. People can overwrite your newly colorized pixel, so be careful and work as a team to overcome any challenge faced by other members trying to destroy your art.
 ### To participate, you must have a Reddit account
