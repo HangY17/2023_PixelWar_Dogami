@@ -17,4 +17,4 @@ Go on your browser extension and import/copy the script:
 2. Click on the cross ("new") then "install from a URL"
 ![alt text](https://i.ibb.co/pQzyGMK/addon3.png)
 
-3. Enter the URL of the script which is hosted right here in this repository: https://github.com/HangY17/2023_PixelWar_Dogami/blob/main/userscript.user.js
+4. Enter the URL of the script which is hosted right here in this repository: https://github.com/HangY17/2023_PixelWar_Dogami/blob/main/userscript.user.js
