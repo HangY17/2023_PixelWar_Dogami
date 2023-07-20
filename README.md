@@ -15,7 +15,7 @@ These repo & script are clones from [Lopeh](https://github.com/Lopeh/onepiece-pl
 * On Firefox  
 ![alt text](https://i.ibb.co/Ldqx8cj/addon4.png)  
 * On Chrome/Opera  
-![alt text](https://i.ibb.co/f9S0hPP/addon5.png)  
+![alt text](https://i.ibb.co/yQXzqkx/addon6.png)  
 
 3. You are ready to fight with us and draw our beautiful Dogami logo !  
 ![alt text](https://i.ibb.co/zZZ3md6/dogami-logo.png")
