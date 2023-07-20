@@ -10,4 +10,4 @@ These repo & script are clones from [Lopeh](https://github.com/Lopeh/onepiece-pl
 
 ## Step 2: Install the script in the browser extension
 Go on your browser extension and import/copy the script:
-* For Mozilla Firefox:
+* For Mozilla Firefox: (https://ibb.co/mCWHFPn)
