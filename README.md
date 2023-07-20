@@ -8,7 +8,7 @@ The Pixel War started in 2017 on Reddit on the r/place channel. It is a blank sp
 # What's the project ?
 We want to create the DOGAMI logo on this 2023 edition. We need your help to do so. Thus, you have to perform few steps to help us get this DOGAMI logo on the fresco.
 To better organize ourselves, we will use a browser add-on as well as a script to show where and how to color the pixels. This acts as a "canvas" to help us put the right color at the right spot. The DOGAMI logo drafted is a 68x15 pixels:  
-![alt text](https://i.ibb.co/zZZ3md6/dogami-logo.png")
+![alt text](https://i.ibb.co/bsydZ0V/dogami-logo.png)
 
 # How to get this script ?
 ## Step 1: Download a browser extension
