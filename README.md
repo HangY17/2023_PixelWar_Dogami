@@ -12,7 +12,7 @@ These repo & script are clones from [Lopeh](https://github.com/Lopeh/onepiece-pl
 1. Click on the following script to install it on your newly installed plugin/add-on: [userscript.user.js](https://github.com/HangY17/2023_PixelWar_Dogami/raw/main/userscript.user.js)
 
 2. Click "confirm the installation"  
-* On Firefox
+* On Firefox  
 ![alt text](https://i.ibb.co/Ldqx8cj/addon4.png)  
 * On Chrome/Opera  
 ![alt text](https://i.ibb.co/f9S0hPP/addon5.png)  
