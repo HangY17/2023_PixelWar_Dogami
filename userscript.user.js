@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         r/onepiece Logo template
+// @name         r/dogami Logo template
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  try to take over the canvas! Made by r/httyd
@@ -16,8 +16,7 @@
     // Make sure the above @connect comment points to your domain.
     // Multiple copies of this script can be used at the same time.
     // The overlay should update live if you update the image on your server.
-    const URL = "https://raw.githubusercontent.com/lopeh/onepiece-place/main/onepiece_full.png";
-    const FrenchAllyDither = "https://raw.githubusercontent.com/CorentinGC/reddit-place-kcorp/main/overlay.png";
+    const URL = "https://raw.githubusercontent.com/HangY17/2023_PixelWar_Dogami/main/dogami_full.png";
 
     const getData = async () => {
         const blob = new Blob([new Uint8Array(await new Promise(resolve =>
@@ -87,54 +86,16 @@
             + `height: ${tempImage.height / 3}px;`;
         return tempImage;
     };
-    
-    const getAllyImage = async (src) => {
-        const i = document.createElement("img");
-        i.src = src;
-        i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;display: none;";
-        return i;
-    };
 
     let oldImage;
 
-    const addImages = async () => {
+    const addImage = async () => {
         const newImage = await getImage();
         if (oldImage) {
             oldImage.remove();
         }
 
         oldImage = newImage;
-        const allyImage1 = await getAllyImage(FrenchAllyDither);
-                
-        window.addEventListener("keydown", function(event) {                
-            // Hide/show the image with the F4 key
-            if(event.key == "F4"){
-                console.log('showing/hiding/refreshing onepiece...' + Date());
-                if (newImage.style.display === "none") {
-                    newImage.style.display = "block";
-                } else {
-                    newImage.style.display = "none";
-                }
-            }
-        });
-        
-        window.addEventListener("keydown", function(event) {                
-            // Hide ally images with the F2 key
-            if(event.key == "F2"){
-                console.log('showing/hiding/refreshing allies...' + Date());
-                if (allyImage1.style.display === "none") {
-                    allyImage1.style.display = "block";
-                } else {
-                    allyImage1.style.display = "none";
-                }
-            }
-        });
-        
-        document.getElementsByTagName("mona-lisa-embed")[0]
-            .shadowRoot.children[0]
-            .getElementsByTagName("mona-lisa-canvas")[0]
-            .shadowRoot.children[0].appendChild(allyImage1);
-        
         document.getElementsByTagName("mona-lisa-embed")[0]
             .shadowRoot.children[0]
             .getElementsByTagName("mona-lisa-canvas")[0]
@@ -143,8 +104,11 @@
 
     if (window.top !== window.self) {
         window.addEventListener("load", () => {
-            addImages();
-            setInterval(addImages, 60 * 1000);
+            addImage();
+            setInterval(addImage, 60 * 1000);
+        }, false);
+    }
+})();
         }, false);
     }
 })();
