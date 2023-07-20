@@ -13,10 +13,7 @@ Go on your browser extension and import/copy the script:
 * ### For Mozilla Firefox (ViolentMonkey plugin):
 1. Once installed, click on logo of ViolentMonkey plugin at the top right corner of your browser  
 ![alt text](https://i.ibb.co/JRJzFSY/addon1.png)
-   
-2. Click on the cross ("new") then "install from a URL"  
-![alt text](https://i.ibb.co/pQzyGMK/addon3.png)
 
-4. Click on this script to install it on your newly installed plugin/add-on: [userscript.user.js](https://github.com/HangY17/2023_PixelWar_Dogami/raw/main/userscript.user.js)
+2. Click on the script to install it on your newly installed plugin/add-on: [userscript.user.js](https://github.com/HangY17/2023_PixelWar_Dogami/raw/main/userscript.user.js)
 
 5. You are ready to fight with us and draw our beautiful Dogami logo !
