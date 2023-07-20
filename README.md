@@ -9,14 +9,9 @@ These repo & script are clones from [Lopeh](https://github.com/Lopeh/onepiece-pl
 * For Chrome/Opera: [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) *(TIP: click on the scroll wheel to open a new tab)*
 
 ## Step 2: Install the script in the browser extension
-Go on your browser extension and import/copy the script:
-* ### For Mozilla Firefox (ViolentMonkey plugin):
-1. Once installed, click on logo of ViolentMonkey plugin at the top right corner of your browser  
-![alt text](https://i.ibb.co/JRJzFSY/addon1.png)
+1. Click on the following script to install it on your newly installed plugin/add-on: [userscript.user.js](https://github.com/HangY17/2023_PixelWar_Dogami/raw/main/userscript.user.js)
 
-2. Click on the script to install it on your newly installed plugin/add-on: [userscript.user.js](https://github.com/HangY17/2023_PixelWar_Dogami/raw/main/userscript.user.js)
-
-3. Click "confirm the installation"  
+2. Click "confirm the installation"  
 ![alt text](https://i.ibb.co/Ldqx8cj/addon4.png)
 
-4. You are ready to fight with us and draw our beautiful Dogami logo !
+3. You are ready to fight with us and draw our beautiful Dogami logo !
