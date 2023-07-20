@@ -19,4 +19,4 @@ Go on your browser extension and import/copy the script:
 3. Click "confirm the installation"
 ![alt text](https://i.ibb.co/Ldqx8cj/addon4.png)
 
-5. You are ready to fight with us and draw our beautiful Dogami logo !
+4. You are ready to fight with us and draw our beautiful Dogami logo !
