@@ -26,7 +26,7 @@ You should see on the top left corner a setting button:
 
 Click on it and paste the following URL into the "Template URL" field at the bottom:  
 ![alt text](https://i.ibb.co/3C4G6Jc/addon8.png)  
-https://rentry.co/77tep/raw  
+https://rentry.co/dogami/raw
 **Ensure there is nothing else that this URL in the bottom. If there is something else, delete it by clicking on it.**  
 
 Click on "Always load". You should then see pixels which look different than others:  
